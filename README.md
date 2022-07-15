@@ -16,6 +16,15 @@
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=red6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JQUERY](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=593D88)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![SPRING](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=#9BE9A8)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![DJANGO](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=02A3A4)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![REACT](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NODEJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#12261E)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -23,6 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+![HEROKU CLI](https://img.shields.io/badge/Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=4B3573)&nbsp;
+![PYCHARM](https://img.shields.io/badge/PyCharm-0D1117.svg?&style=for-the-badge&logo=PyCharm&logoColor=40C463)&nbsp;
 
 ### Other Knowledge:
 
