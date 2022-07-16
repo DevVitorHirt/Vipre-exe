@@ -22,9 +22,11 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![DJANGO](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=02A3A4)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=F05032)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![REACT](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NODEJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#12261E)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -34,8 +36,14 @@
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
 ![HEROKU CLI](https://img.shields.io/badge/Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=4B3573)&nbsp;
 ![PYCHARM](https://img.shields.io/badge/PyCharm-0D1117.svg?&style=for-the-badge&logo=PyCharm&logoColor=40C463)&nbsp;
+![ATOM](https://img.shields.io/badge/Atom-0D1117?style=for-the-badge&logo=Atom&logoColor=F4A802)&nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-0D1117.svg?style=for-the-badge&logo=anaconda&logoColor=11251E)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=563D7C)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=427ED2)&nbsp;
+![Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=6DB33F)&nbsp;
 
-### Other Knowledge:
+### Training:
+![Codewars](https://img.shields.io/badge/Codewars-0D1117?style=for-the-badge&logo=codewars&logoColor=C5442D)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
